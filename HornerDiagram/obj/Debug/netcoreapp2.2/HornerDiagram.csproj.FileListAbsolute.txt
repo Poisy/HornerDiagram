@@ -9,3 +9,14 @@ C:\Users\atana\source\repos\ShemaNaHorner\ShemaNaHorner\obj\Debug\netcoreapp2.2\
 C:\Users\atana\source\repos\ShemaNaHorner\ShemaNaHorner\obj\Debug\netcoreapp2.2\HornerDiagram.AssemblyInfo.cs
 C:\Users\atana\source\repos\ShemaNaHorner\ShemaNaHorner\obj\Debug\netcoreapp2.2\HornerDiagram.dll
 C:\Users\atana\source\repos\ShemaNaHorner\ShemaNaHorner\obj\Debug\netcoreapp2.2\HornerDiagram.pdb
+C:\Users\atana\source\repos\HornerDiagram\HornerDiagram\bin\Debug\netcoreapp2.2\HornerDiagram.deps.json
+C:\Users\atana\source\repos\HornerDiagram\HornerDiagram\bin\Debug\netcoreapp2.2\HornerDiagram.runtimeconfig.json
+C:\Users\atana\source\repos\HornerDiagram\HornerDiagram\bin\Debug\netcoreapp2.2\HornerDiagram.runtimeconfig.dev.json
+C:\Users\atana\source\repos\HornerDiagram\HornerDiagram\bin\Debug\netcoreapp2.2\HornerDiagram.dll
+C:\Users\atana\source\repos\HornerDiagram\HornerDiagram\bin\Debug\netcoreapp2.2\HornerDiagram.pdb
+C:\Users\atana\source\repos\HornerDiagram\HornerDiagram\obj\Debug\netcoreapp2.2\HornerDiagram.csprojAssemblyReference.cache
+C:\Users\atana\source\repos\HornerDiagram\HornerDiagram\obj\Debug\netcoreapp2.2\HornerDiagram.csproj.CoreCompileInputs.cache
+C:\Users\atana\source\repos\HornerDiagram\HornerDiagram\obj\Debug\netcoreapp2.2\HornerDiagram.AssemblyInfoInputs.cache
+C:\Users\atana\source\repos\HornerDiagram\HornerDiagram\obj\Debug\netcoreapp2.2\HornerDiagram.AssemblyInfo.cs
+C:\Users\atana\source\repos\HornerDiagram\HornerDiagram\obj\Debug\netcoreapp2.2\HornerDiagram.dll
+C:\Users\atana\source\repos\HornerDiagram\HornerDiagram\obj\Debug\netcoreapp2.2\HornerDiagram.pdb
