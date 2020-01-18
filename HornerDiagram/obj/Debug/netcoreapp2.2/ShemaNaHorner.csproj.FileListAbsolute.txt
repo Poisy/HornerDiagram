@@ -1,0 +1,11 @@
+C:\Users\atana\source\repos\ShemaNaHorner\ShemaNaHorner\bin\Debug\netcoreapp2.2\ShemaNaHorner.deps.json
+C:\Users\atana\source\repos\ShemaNaHorner\ShemaNaHorner\bin\Debug\netcoreapp2.2\ShemaNaHorner.runtimeconfig.json
+C:\Users\atana\source\repos\ShemaNaHorner\ShemaNaHorner\bin\Debug\netcoreapp2.2\ShemaNaHorner.runtimeconfig.dev.json
+C:\Users\atana\source\repos\ShemaNaHorner\ShemaNaHorner\bin\Debug\netcoreapp2.2\ShemaNaHorner.dll
+C:\Users\atana\source\repos\ShemaNaHorner\ShemaNaHorner\bin\Debug\netcoreapp2.2\ShemaNaHorner.pdb
+C:\Users\atana\source\repos\ShemaNaHorner\ShemaNaHorner\obj\Debug\netcoreapp2.2\ShemaNaHorner.csprojAssemblyReference.cache
+C:\Users\atana\source\repos\ShemaNaHorner\ShemaNaHorner\obj\Debug\netcoreapp2.2\ShemaNaHorner.csproj.CoreCompileInputs.cache
+C:\Users\atana\source\repos\ShemaNaHorner\ShemaNaHorner\obj\Debug\netcoreapp2.2\ShemaNaHorner.AssemblyInfoInputs.cache
+C:\Users\atana\source\repos\ShemaNaHorner\ShemaNaHorner\obj\Debug\netcoreapp2.2\ShemaNaHorner.AssemblyInfo.cs
+C:\Users\atana\source\repos\ShemaNaHorner\ShemaNaHorner\obj\Debug\netcoreapp2.2\ShemaNaHorner.dll
+C:\Users\atana\source\repos\ShemaNaHorner\ShemaNaHorner\obj\Debug\netcoreapp2.2\ShemaNaHorner.pdb
